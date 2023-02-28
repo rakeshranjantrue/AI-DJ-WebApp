@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 20px;
+    font-family: 'Rakkas', cursive;
+}
+.note{
+    color: black;
+    font-size: 16px;
+    font-family: 'Yatra One', cursive;
+    font-weight: bolder;
+}
+.song_name{
+    font-size: 20px;
+    font-family: 'Fredoka One', cursive;
+    color: black;
+    border-color: aqua;
+    border-width: 3px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px green;
+}
+canvas{
+    background-color: #000000;
+    border: 5px solid green;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
